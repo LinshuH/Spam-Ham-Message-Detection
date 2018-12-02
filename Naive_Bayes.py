@@ -5,13 +5,7 @@ import numpy as np
 """
 Unigram split the sentence into one word each time for the evaluation
 Bigrams split into two words
-"""
-
-
- 
-# data processing
-# 1, split the input into bigram forms
-# 2, 
+""" 
 
 def generate_bigrams(word_list):
     """
